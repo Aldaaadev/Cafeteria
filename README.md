@@ -1,2 +1,2 @@
-# Cafeteria.github.io
+# Cafeteria
 # Tienda de Café
